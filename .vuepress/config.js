@@ -77,7 +77,7 @@ module.exports = {
                     children: [
                         '/project/introduction.md',
                         '/project/about.md',
-                        '/project/terms.md',
+                        '/project/notice.md',
                     ]
                 },
                 // {
